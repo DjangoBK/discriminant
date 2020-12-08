@@ -1,0 +1,30 @@
+h1{
+    text-align: center;
+}
+
+label{
+    display: inline-block;
+    text-align: center;
+    width: 10%;
+}
+
+.correct{
+    border: 1px solid green;
+}
+
+.false{
+    border: 1px solid red;
+}
+
+#nouveau{
+    width: 10%;
+    text-align: center;
+    margin-left: 5%;
+}
+
+.center-div{
+    margin: 0 auto;
+    margin-top: 5%;
+    width: 40%;
+    text-align: center;
+}
